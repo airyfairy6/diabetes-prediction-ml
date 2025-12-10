@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Predicting Diabetes Banner" width="100%">
+  <img src="assets/Predicting Diabetes with Logistic Regression.png" alt="Predicting Diabetes Banner" width="100%">
 </p>
 # Predicting Diabetes with Feature Engineering & Model Evaluation
 
