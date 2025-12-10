@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Predicting Diabetes Banner" width="100%">
+</p>
 # Predicting Diabetes with Feature Engineering & Model Evaluation
 
 This project builds and evaluates machine-learning models to predict diabetes based on clinical patient data.  
